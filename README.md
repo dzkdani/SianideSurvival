@@ -35,6 +35,6 @@ Down Arrow 	->	Move Down
 Right Arrow 	->	Move Right
 ?	 	->	Hit 
   
-  ![Screenshot](1.png)
-  ![Screenshot](2.png)
-  ![Screenshot](Capture.png)
+  ![Screenshot](1.PNG)
+  ![Screenshot](2.PNG)
+  ![Screenshot](Capture.PNG)
